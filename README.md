@@ -49,3 +49,6 @@ cat access.log | cut -d " " -f 1 | sort | uniq -c
 
 10- Localizar acesso a um determinado arquivo sensível
 grep "arquivosensivel" access.log
+<img width="377" height="254" alt="image" src="https://github.com/user-attachments/assets/1c33a3bd-1edd-4e92-83b4-a129b6d9b15a" />
+
+
