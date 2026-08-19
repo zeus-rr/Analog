@@ -1,8 +1,6 @@
 Script para analise de log do apache2
 RedScan Academy
-•
-14 de abr. de 2025 (editado: 9 de jun. de 2025)
-100 pontos
+
 Utilizando os comandos propostos na aula, desenvolva um script simples para analise de log sem utilizar Ai.
  
 Opções de Análise de Ataques para o Script.
